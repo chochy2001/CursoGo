@@ -59,10 +59,4 @@ func main(){
 		fmt.Printf("%c ",i)
 	}
 
-
-
-
-
-
-
 }
