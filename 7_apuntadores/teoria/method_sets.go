@@ -45,7 +45,8 @@ func main() {
 	c := circle{radius: 5}
 	info(&c)
 	w := circle{radius: 5}
-	info(w)
+	//Se cambio para hacer que funcione el codigo
+	info(&w)
 	/*
 		s := square{side: 5}
 		info(s)
