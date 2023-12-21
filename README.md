@@ -6,13 +6,13 @@
 
 El curso está organizado en módulos específicos para facilitar el aprendizaje progresivo:
 
-1. **Primeros Pasos**: 🐣 Aprende los fundamentos esenciales del lenguaje. ¡Manos a la obra con ejercicios prácticos en [1_primeros_pasos/ejercicios](1_primeros_pasos/ejercicios) y consolida tu conocimiento con la teoría en [1_primeros_pasos/teoria](1_primeros_pasos/teoria)!
-2. **Tipos de Datos**: 🧮 Expande tu comprensión de Go con ejercicios en [2_tipos_de_datos/ejercicios](2_tipos_de_datos/ejercicios) y profundiza con la teoría en [2_tipos_de_datos/teoria](2_tipos_de_datos/teoria).
-3. **Control de Flujo**: ⚙️ Domina los bucles y la lógica condicional con los ejercicios en [3_control_de_flujo/ejercicios](3_control_de_flujo/ejercicios) y el material teórico en [3_control_de_flujo/teoria](3_control_de_flujo/teoria).
-4. **Agrupando Datos**: 📊 Aprende a manejar colecciones de datos con los ejercicios en [4_agrupando_datos/ejercicios](4_agrupando_datos/ejercicios) y consulta la teoría en [4_agrupando_datos/teoria](4_agrupando_datos/teoria).
-5. **Structs**: 🏗️ Modela estructuras de datos complejas con ejercicios en [5_structs/ejercicios](5_structs/ejercicios) y revisa la teoría en [5_structs/teoria](5_structs/teoria).
-6. **Funciones**: 🛠️ Fortalece tus habilidades en la creación de funciones con ejercicios en [6_funciones/ejercicios](6_funciones/ejercicios) y amplía tu conocimiento con la teoría en [6_funciones/teoria](6_funciones/teoria).
-7. **Apuntadores**: 📍 Entiende y domina los apuntadores en Go con ejercicios en [7_apuntadores/ejercicios](7_apuntadores/ejercicios) y el material teórico en [7_apuntadores/teoria](7_apuntadores/teoria).
+1. **Primeros Pasos**: 🐣 Aprende los fundamentos esenciales del lenguaje. ¡Manos a la obra con ejercicios prácticos en [ejercicios](1_primeros_pasos/ejercicios) y consolida tu conocimiento con la teoría en [teoria](1_primeros_pasos/teoria)!
+2. **Tipos de Datos**: 🧮 Expande tu comprensión de Go con ejercicios en [ejercicios](2_tipos_de_datos/ejercicios) y profundiza con la teoría en [teoria](2_tipos_de_datos/teoria).
+3. **Control de Flujo**: ⚙️ Domina los bucles y la lógica condicional con los ejercicios en [ejercicios](3_control_de_flujo/ejercicios) y el material teórico en [teoria](3_control_de_flujo/teoria).
+4. **Agrupando Datos**: 📊 Aprende a manejar colecciones de datos con los ejercicios en [ejercicios](4_agrupando_datos/ejercicios) y consulta la teoría en [teoria](4_agrupando_datos/teoria).
+5. **Structs**: 🏗️ Modela estructuras de datos complejas con ejercicios en [ejercicios](5_structs/ejercicios) y revisa la teoría en [teoria](5_structs/teoria).
+6. **Funciones**: 🛠️ Fortalece tus habilidades en la creación de funciones con ejercicios en [ejercicios](6_funciones/ejercicios) y amplía tu conocimiento con la teoría en [teoria](6_funciones/teoria).
+7. **Apuntadores**: 📍 Entiende y domina los apuntadores en Go con ejercicios en [ejercicios](7_apuntadores/ejercicios) y el material teórico en [teoria](7_apuntadores/teoria).
 
 Cada módulo está enriquecido con **ejercicios prácticos** para que pongas a prueba tus habilidades inmediatamente.
 
