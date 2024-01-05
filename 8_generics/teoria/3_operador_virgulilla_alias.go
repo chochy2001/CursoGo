@@ -6,7 +6,7 @@ import (
 
 type Sumable2 interface {
 	~int | ~float64 | ~uint | float32 | uint8 | ~string
-urs
+}
 
 func Sum2[T Sumable2](slice []T) T {
 	var sum T
