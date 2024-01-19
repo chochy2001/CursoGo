@@ -14,6 +14,26 @@
 
 package main
 
+import "fmt"
+
+func Intercambiar[T any](a, b *T) {
+	temp := *a
+	*a = *b
+	*b = temp
+}
+
 func main() {
+
+	x, y := 1, 2
+	Intercambiar(&x, &y)
+	fmt.Println("Intercambio de int: x = ", x, " y = ", y)
+
+	a, b := 1.1, 2.2
+	Intercambiar(&a, &b)
+	fmt.Println("Intercambio de float64: a = ", a, " b = ", b)
+
+	c, d := "Hola", "Mundo"
+	Intercambiar(&c, &d)
+	fmt.Println("Intercambio de string: c = ", c, " d = ", d)
 
 }
